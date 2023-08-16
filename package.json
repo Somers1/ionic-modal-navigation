@@ -1,0 +1,22 @@
+{
+  "name": "ionic-modal-navigation",
+  "version": "0.0.1",
+  "description": "ionic-modal-navigation is an Angular service for Ionic applications that synchronizes modal navigation with the browser history, making web modals behave like native modals. It manages the opening and closing of modals in coordination with the browser's back button, ensuring that the history stack behaves as expected, even with multiple modals open.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionic",
+    "angular",
+    "modal",
+    "navigation"
+  ],
+  "author": "Jake Somerville",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^16.2.0",
+    "@angular/core": "^16.2.0",
+    "@ionic/angular": "^7.2.3"
+  }
+}
